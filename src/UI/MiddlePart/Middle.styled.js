@@ -34,7 +34,7 @@ const MiddlePart = styled.div`
       box-shadow: 0px 10px 30px -10px black;
     }
     @media screen and (orientation: landscape) {
-      width: 80%;
+      width: 82%;
     }
   }
 `;

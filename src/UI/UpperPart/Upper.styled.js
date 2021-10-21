@@ -11,11 +11,6 @@ const UpperPart = styled.div`
   p:nth-child(3) {
     color: hsl(218, 22%, 67%);
     line-height: 1.7;
-    @media screen and (orientation: landscape) {
-      &:nth-child(3) {
-        margin-right: 5em;
-      }
-    }
   }
 `;
 
