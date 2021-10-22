@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const MiddlePart = styled.div`
+const MiddlePart = styled.section`
   background: hsl(179, 62%, 43%);
   color: white;
   p:nth-child(2) {
@@ -30,6 +30,9 @@ const MiddlePart = styled.div`
     border-radius: 5px;
     height: 3em;
     box-shadow: 0px 10px 30px -15px black;
+    &:hover {
+      background: hsl(71, 73%, 60%);
+    }
     &:active {
       box-shadow: 0px 10px 30px -10px black;
     }

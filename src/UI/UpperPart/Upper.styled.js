@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const UpperPart = styled.div`
+const UpperPart = styled.section`
   h1 {
     color: hsl(179, 62%, 43%);
   }

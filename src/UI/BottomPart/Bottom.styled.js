@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const BottomPart = styled.div`
+const BottomPart = styled.section`
   color: white;
   background: hsla(178.7, 61.8%, 43.1%, 0.73);
   ul {
